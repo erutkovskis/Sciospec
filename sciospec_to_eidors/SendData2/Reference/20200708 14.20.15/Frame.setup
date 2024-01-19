@@ -1,0 +1,29 @@
+Setup type: EITsystem
+Version: 1
+Name: Frame
+Date: 1594209526537
+Device: 01-0019-011F-0A07-01-0058
+EIT
+CurrentSource: 1
+MeasureConfig: -1
+ExtPortChannel: -1
+CurrentExcitationPattern: 0
+1, 2,
+2, 3,
+3, 4,
+4, 5,
+5, 6,
+6, 7,
+7, 8,
+8, 9,
+9, 10,
+10, 11,
+11, 12,
+12, 13,
+13, 14,
+14, 15,
+15, 16,
+16, 1
+Settings: -1.0,0.0,1000.0,1.0,0.0,0.0,1.0,1.0,0.0
+100000.0, 100000.0, 1.0, 0.0, 30.0, 10.0, 20.0, 0.0, 0.0, 0.0
+
